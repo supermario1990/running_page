@@ -5614,5 +5614,21 @@
 "elevation_gain": 31.0,
 "source": "Garmin Connect",
 "streak": 2
+},
+{
+"run_id": 1757420986000,
+"name": "Shenzhen Running",
+"distance": 15027.34,
+"moving_time": "1:35:55.437000",
+"type": "Run",
+"start_date": "2025-09-09 12:29:46",
+"start_date_local": "2025-09-09 20:29:46",
+"location_country": "\u4fa8\u9999\u56db\u9053, \u9999\u5b89\u793e\u533a, \u9999\u871c\u6e56\u8857\u9053, \u798f\u7530\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518000, \u4e2d\u56fd",
+"summary_polyline": "krshC{sxvTDpEn@b@nCHH`JvWwAlCzDRxEhBlHjAPnB_@lCxKf@VzK_@zlAqKt@c@RoAyC{HVRMs@fB_ADg@~PqH~AFjLjY{EzTnEtQ`DxCf@jAJbBsAjG~@dXj@`DbE~Jf@vCMjGeAbDsC|Di@dCDl[`@jBrBxCKdDJkDwB}CY_BEi[f@kCpBcCxAsD\\uCCwDeFuNq@kDaAmXnA{EEoCu@wAqC_CwEsR~EmTeL_YaBYiU~KbD~IKjAw@l@s`ArIeXzAo@a@kCkKeBZoAMkBgH?eBs@oCmBgDmWzAQmI[WmCDQwEm@O",
+"average_heartrate": 149.0,
+"average_speed": 2.6080000400543213,
+"elevation_gain": 49.0,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
