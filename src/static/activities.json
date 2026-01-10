@@ -6382,5 +6382,21 @@
 "elevation_gain": 174.0,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1767963482000,
+"name": "\u6df1\u5733\u5e02 \u6b65\u884c",
+"distance": 271.03,
+"moving_time": "0:03:49",
+"type": "Hike",
+"start_date": "2026-01-09 12:58:02",
+"start_date_local": "2026-01-09 20:58:02",
+"location_country": "\u5a01\u65b0\u8f6f\u4ef6\u79d1\u6280\u56ed\u5357\u533a, \u9ad8\u65b0\u533a\u793e\u533a, \u7ca4\u6d77\u8857\u9053, \u5357\u5c71\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518057, \u4e2d\u56fd",
+"summary_polyline": "upohCuqmvTH`BhAn@ApB",
+"average_heartrate": 126.0,
+"average_speed": 1.1369999647140503,
+"elevation_gain": 7.0,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
