@@ -7230,5 +7230,21 @@
 "elevation_gain": 42.0,
 "source": "Garmin Connect",
 "streak": 2
+},
+{
+"run_id": 1779575484000,
+"name": "\u6df1\u5733\u5e02 \u8dd1\u6b65",
+"distance": 10013.19,
+"moving_time": "1:05:49.479000",
+"type": "Run",
+"start_date": "2026-05-23 22:31:24",
+"start_date_local": "2026-05-24 06:31:24",
+"location_country": "\u4fa8\u9999\u4e09\u9053, \u9999\u5b89\u793e\u533a, \u9999\u871c\u6e56\u8857\u9053, \u798f\u7530\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518000, \u4e2d\u56fd",
+"summary_polyline": "wkshC_kxvT`ApDa@fBh@r@pUwA|BxDh@xBAlBdBvGhA\\pAi@`@JvDvKd@LjNe@fb@kE`f@wDr@e@NiA_DoI`@f@bD_CiACZi@fPeHz@Er@n@rKdXyE|SxDzOsDqP|E_SaL_Yw@g@{LxE}HtEdDjIKhAs@p@qt@tGa@eDjBk@~ADf@s@K{AeAmBRwAlDcAEkIgA}Ey@q@eCDuCzBIxAz@p@?b@iCAqCr@iHk@uAaAuAXkBa@}BLoCkBkGnB[dAwApAgAoAMcB",
+"average_heartrate": 147.0,
+"average_speed": 2.532999992370605,
+"elevation_gain": 40.0,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
