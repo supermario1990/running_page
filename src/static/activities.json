@@ -7246,5 +7246,37 @@
 "elevation_gain": 40.0,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1779799896000,
+"name": "\u6df1\u5733\u5e02 \u8dd1\u6b65",
+"distance": 10008.09,
+"moving_time": "1:03:40.860000",
+"type": "Run",
+"start_date": "2026-05-26 12:51:36",
+"start_date_local": "2026-05-26 20:51:36",
+"location_country": "\u4e07\u79d1\u91cc\u00b7\u7467, 1, \u5b89\u6258\u5c71\u56db\u8def, \u9999\u5b89\u793e\u533a, \u9999\u871c\u6e56\u8857\u9053, \u798f\u7530\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518040, \u4e2d\u56fd",
+"summary_polyline": "ssshCy|xvTAsg@oA}AyDsBFeBcJaCy@iAFg\\zl@__@nF{BxEeApAp@xBfTs@`B_M|E}RhMqLyCiAb@oDzE}@m@@k@zH_KlIgDxE}DpI_FlAwAhHk@zE_Br@bFT~Dk@lA}HpCwVrOsMmCcIxJJbAlAbBh@|CtCpA}@bFhAXvRnMoF~LH~b@kJZaCO?uK`GIH~Do@Ha@w@GVhA`@Jy@",
+"average_heartrate": 156.0,
+"average_speed": 2.6119999885559078,
+"elevation_gain": 125.0,
+"source": "Garmin Connect",
+"streak": 1
+},
+{
+"run_id": 1779920944000,
+"name": "\u6df1\u5733\u5e02 \u8dd1\u6b65",
+"distance": 6008.7,
+"moving_time": "0:38:25.720000",
+"type": "Run",
+"start_date": "2026-05-27 22:29:04",
+"start_date_local": "2026-05-28 06:29:04",
+"location_country": "\u80af\u5fb7\u57fa, 1, \u4fa8\u9999\u56db\u9053, \u9999\u5b89\u793e\u533a, \u9999\u871c\u6e56\u8857\u9053, \u798f\u7530\u533a, \u6df1\u5733\u5e02, \u5e7f\u4e1c\u7701, 518040, \u4e2d\u56fd",
+"summary_polyline": "_sshCu}xvTYcCF_c@[s@cE}B~@}AtAmIhE}HpC{BS{@Rs@sIsC_A?w@^yG~IoDPWu@BwMz@oA~E_Czc@_YbFuBfFmAn@Hd@r@xAzMJrFy@z@kLpEyRdMmI~LoBvFk@bE{@jA|E~DDje@",
+"average_heartrate": 152.0,
+"average_speed": 2.5739998817443848,
+"elevation_gain": 48.0,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
